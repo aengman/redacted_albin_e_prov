@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/redacted_albin_e_prov/static/css/main.4b159833.chunk.css",
+    "main.js": "/redacted_albin_e_prov/static/js/main.67ac238f.chunk.js",
+    "main.js.map": "/redacted_albin_e_prov/static/js/main.67ac238f.chunk.js.map",
+    "runtime-main.js": "/redacted_albin_e_prov/static/js/runtime-main.3339b2fa.js",
+    "runtime-main.js.map": "/redacted_albin_e_prov/static/js/runtime-main.3339b2fa.js.map",
+    "static/js/2.ad5e82b2.chunk.js": "/redacted_albin_e_prov/static/js/2.ad5e82b2.chunk.js",
+    "static/js/2.ad5e82b2.chunk.js.map": "/redacted_albin_e_prov/static/js/2.ad5e82b2.chunk.js.map",
+    "index.html": "/redacted_albin_e_prov/index.html",
+    "precache-manifest.2baa0785c27ab6a1902a08ccec760299.js": "/redacted_albin_e_prov/precache-manifest.2baa0785c27ab6a1902a08ccec760299.js",
+    "service-worker.js": "/redacted_albin_e_prov/service-worker.js",
+    "static/css/main.4b159833.chunk.css.map": "/redacted_albin_e_prov/static/css/main.4b159833.chunk.css.map",
+    "static/js/2.ad5e82b2.chunk.js.LICENSE.txt": "/redacted_albin_e_prov/static/js/2.ad5e82b2.chunk.js.LICENSE.txt",
+    "static/media/main.css": "/redacted_albin_e_prov/static/media/background.9cd80190.jpeg",
+    "static/media/logo.png": "/redacted_albin_e_prov/static/media/logo.e848fd0b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3339b2fa.js",
+    "static/js/2.ad5e82b2.chunk.js",
+    "static/css/main.4b159833.chunk.css",
+    "static/js/main.67ac238f.chunk.js"
+  ]
+}
